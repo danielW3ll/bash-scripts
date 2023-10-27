@@ -1,4 +1,4 @@
-https://img.shields.io/badge/BASH-scripts-blue
+![info](https://img.shields.io/badge/BASH-scripts-blue)
 
 # Bash Scripts Repository
 
